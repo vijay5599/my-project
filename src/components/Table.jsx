@@ -23,8 +23,8 @@ export default function BasicTable() {
   return (
     <TableContainer
       component={Paper}
-      style={{ width: "1150px", height: "350px" }}
-      className="mt-10 mr-5"
+      style={{ width: "1100px", height: "350px" }}
+      className="mt-10 mr-5 ml-6"
     >
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead>

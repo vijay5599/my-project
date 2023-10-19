@@ -8,7 +8,7 @@ function Navbar() {
         <a className="text-2xl" href="#">
           Hello Vijay 👋,
         </a>
-        <span className="rounded-md bg-white pr-5">
+        <span className="rounded-md bg-white pr-8 mr-4">
           <SearchIcon />
           <input placeholder="Search" className="outline-none p-1" />
         </span>

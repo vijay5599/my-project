@@ -89,7 +89,7 @@ export const data = {
 
 export function BarChart() {
   return (
-    <div className="flex-none w-8/12 h-auto ml-6 mt-6 bg shadow-xl rounded-xl px-3 py-2 pb-9 bg-white">
+    <div className="flex-none w-8/12 h-auto ml-6 mt-6 bg shadow-xl rounded-xl px-3 py-2 pb-10 bg-white">
       <span className="flex justify-between">
         <p className="ml-4 font-bold">
           Overview
